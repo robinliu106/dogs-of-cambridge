@@ -2,6 +2,7 @@ import React from "react";
 
 import ListDogs from "./ListDogs";
 import DogInfo from "./DogInfo";
+
 function App() {
     return (
         <div className="container">

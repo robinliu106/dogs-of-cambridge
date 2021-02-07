@@ -18,14 +18,14 @@ const DogInfo = () => {
                 const infoResponse = await fetch(
                     "https://api.thedogapi.com/v1/breeds/search?" +
                         new URLSearchParams({
-                            q: activeDog.breed,
+                            q: activeDog?.breed,
                             api_key: process.env.REACT_APP_DOG_API_KEY,
                         })
                 );
 
                 const infoJSON = await infoResponse.json();
 
-                const dogID = infoJSON[0].id;
+                const dogID = infoJSON[0]?.id;
                 // console.log("dog Info", infoJSON[0].id);
                 //TODO add some error checking here
 

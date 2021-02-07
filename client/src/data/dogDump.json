@@ -9,7 +9,7 @@
     {
         "id": 2,
         "name": "Abbey",
-        "breed": "Shih Tzu / Bichon Mix",
+        "breed": "Shih Tzu Bichon",
         "location": { "x": 42.36863542, "y": -71.08340476 },
         "neighborhood": "East Cambridge"
     },
@@ -65,14 +65,14 @@
     {
         "id": 11,
         "name": "Abby",
-        "breed": "Shepherd Mix",
+        "breed": "Shepherd",
         "location": { "x": 42.3935062, "y": -71.14721564 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 12,
         "name": "Abby",
-        "breed": "Pug Chihuahua Mix",
+        "breed": "Pug Chihuahua",
         "location": { "x": 42.39344204, "y": -71.13238674 },
         "neighborhood": "North Cambridge"
     },
@@ -93,7 +93,7 @@
     {
         "id": 15,
         "name": "Abby",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.37866207, "y": -71.15360759 },
         "neighborhood": "Strawberry Hill"
     },
@@ -121,7 +121,7 @@
     {
         "id": 19,
         "name": "Acadia",
-        "breed": "Labrador Mix",
+        "breed": "Labrador",
         "location": { "x": 42.38408114, "y": -71.13779368 },
         "neighborhood": "West Cambridge"
     },
@@ -170,7 +170,7 @@
     {
         "id": 26,
         "name": "Addie",
-        "breed": "Beagle Lab Mix",
+        "breed": "Beagle Lab",
         "location": { "x": 42.3857344, "y": -71.12948059 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -205,7 +205,7 @@
     {
         "id": 31,
         "name": "Adelaide",
-        "breed": "Hound Mix",
+        "breed": "Hound",
         "location": { "x": 42.36935181, "y": -71.0842748 },
         "neighborhood": "East Cambridge"
     },
@@ -254,7 +254,7 @@
     {
         "id": 38,
         "name": "Ajax",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.39169691, "y": -71.12657895 },
         "neighborhood": "North Cambridge"
     },
@@ -408,7 +408,7 @@
     {
         "id": 60,
         "name": "Ali",
-        "breed": "Chihuahua Mix",
+        "breed": "Chihuahua",
         "location": { "x": 42.38567762, "y": -71.12926166 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -443,7 +443,7 @@
     {
         "id": 65,
         "name": "Alice",
-        "breed": "Pointer Mix",
+        "breed": "Pointer",
         "location": { "x": 42.37326598, "y": -71.13775565 },
         "neighborhood": "West Cambridge"
     },
@@ -464,7 +464,7 @@
     {
         "id": 68,
         "name": "Alice",
-        "breed": "Lab Shepherd Mix",
+        "breed": "Lab Shepherd",
         "location": { "x": 42.36194729, "y": -71.10897246 },
         "neighborhood": "Cambridgeport"
     },
@@ -506,21 +506,21 @@
     {
         "id": 74,
         "name": "Allie",
-        "breed": "Beagle Mix",
+        "breed": "Beagle",
         "location": { "x": 42.36636518, "y": -71.0986569 },
         "neighborhood": "The Port"
     },
     {
         "id": 75,
         "name": "Allusha",
-        "breed": "Italian Greyhould",
+        "breed": "Italian Greyhound",
         "location": { "x": 42.38034096, "y": -71.12389317 },
         "neighborhood": "West Cambridge"
     },
     {
         "id": 76,
         "name": "Ally",
-        "breed": "Beagle Mix",
+        "breed": "Beagle",
         "location": { "x": 42.37648775, "y": -71.1340245 },
         "neighborhood": "West Cambridge"
     },
@@ -541,14 +541,14 @@
     {
         "id": 79,
         "name": "Alpine",
-        "breed": "Lab Mix",
+        "breed": "Lab",
         "location": { "x": 42.36005072, "y": -71.10547318 },
         "neighborhood": "Cambridgeport"
     },
     {
         "id": 80,
         "name": "Alvin",
-        "breed": "Golden Doodle Mix",
+        "breed": "Golden Doodle",
         "location": { "x": 42.38648921, "y": -71.13129572 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -569,7 +569,7 @@
     {
         "id": 83,
         "name": "Amie",
-        "breed": "Chihuahua Mix",
+        "breed": "Chihuahua",
         "location": { "x": 42.37904091, "y": -71.15033815 },
         "neighborhood": "Strawberry Hill"
     },
@@ -611,7 +611,7 @@
     {
         "id": 89,
         "name": "Ana Ekaterina",
-        "breed": "Aus Cat Mix",
+        "breed": "Aus Cat",
         "location": { "x": 42.36757326, "y": -71.07233531 },
         "neighborhood": "East Cambridge"
     },
@@ -646,7 +646,7 @@
     {
         "id": 94,
         "name": "Angel",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.38355544, "y": -71.12038624 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -660,7 +660,7 @@
     {
         "id": 96,
         "name": "Angel",
-        "breed": "Pit Bull Mix",
+        "breed": "Pit Bull",
         "location": { "x": 42.36567054, "y": -71.1062647 },
         "neighborhood": "Cambridgeport"
     },
@@ -723,7 +723,7 @@
     {
         "id": 105,
         "name": "Annabelle",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38410117, "y": -71.12281044 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -744,7 +744,7 @@
     {
         "id": 108,
         "name": "Annie",
-        "breed": "Husky / Mix",
+        "breed": "Husky",
         "location": { "x": 42.36004029, "y": -71.11126038 },
         "neighborhood": "Cambridgeport"
     },
@@ -758,7 +758,7 @@
     {
         "id": 110,
         "name": "Annie",
-        "breed": "Chihuahua Mix",
+        "breed": "Chihuahua",
         "location": { "x": 42.35870353, "y": -71.10849008 },
         "neighborhood": "Cambridgeport"
     },
@@ -898,14 +898,14 @@
     {
         "id": 130,
         "name": "Apollo",
-        "breed": "Pit Bull Terrier Mix",
+        "breed": "Pit Bull Terrier",
         "location": { "x": 42.38796802, "y": -71.133027 },
         "neighborhood": "Neighborhood Nine"
     },
     {
         "id": 131,
         "name": "Apollo",
-        "breed": "Pitbull Terrier Mix",
+        "breed": "Pitbull Terrier",
         "location": { "x": 42.38751708, "y": -71.13238547 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -926,7 +926,7 @@
     {
         "id": 134,
         "name": "Archibald",
-        "breed": "Havanese Mix",
+        "breed": "Havanese",
         "location": { "x": 42.35686034, "y": -71.09969068 },
         "neighborhood": "Area 2/MIT"
     },
@@ -982,14 +982,14 @@
     {
         "id": 142,
         "name": "Archie Tyrone",
-        "breed": "Bichon Frise Mix",
+        "breed": "Bichon Frise",
         "location": { "x": 42.39544895, "y": -71.13112372 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 143,
         "name": "Argos",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37581222, "y": -71.12272675 },
         "neighborhood": "West Cambridge"
     },
@@ -1024,7 +1024,7 @@
     {
         "id": 148,
         "name": "Arlo",
-        "breed": "Retr Mix",
+        "breed": "Retr",
         "location": { "x": 42.3688275, "y": -71.11171434 },
         "neighborhood": "Riverside"
     },
@@ -1073,14 +1073,14 @@
     {
         "id": 155,
         "name": "Arthur",
-        "breed": "Belgian Mix",
+        "breed": "Belgian",
         "location": { "x": 42.3815599, "y": -71.12566377 },
         "neighborhood": "Neighborhood Nine"
     },
     {
         "id": 156,
         "name": "Artimiss",
-        "breed": "Maltese Mix",
+        "breed": "Maltese",
         "location": { "x": 42.3635308, "y": -71.10649911 },
         "neighborhood": "Cambridgeport"
     },
@@ -1122,7 +1122,7 @@
     {
         "id": 162,
         "name": "Arya",
-        "breed": "Shepherd Mix",
+        "breed": "Shepherd",
         "location": { "x": 42.38796726, "y": -71.14880501 },
         "neighborhood": "Cambridge Highlands"
     },
@@ -1164,7 +1164,7 @@
     {
         "id": 168,
         "name": "Astro",
-        "breed": "Chiuahua Mix",
+        "breed": "Chiuahua",
         "location": { "x": 42.38865493, "y": -71.12995405 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1248,14 +1248,14 @@
     {
         "id": 180,
         "name": "Atom",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.39515744, "y": -71.14381568 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 181,
         "name": "Atom",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.39637323, "y": -71.14222818 },
         "neighborhood": "North Cambridge"
     },
@@ -1276,7 +1276,7 @@
     {
         "id": 184,
         "name": "Aubergine",
-        "breed": "Coonhound Mix",
+        "breed": "Coonhound",
         "location": { "x": 42.40089514, "y": -71.13763443 },
         "neighborhood": "North Cambridge"
     },
@@ -1297,7 +1297,7 @@
     {
         "id": 187,
         "name": "Augie",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.3794254, "y": -71.12861682 },
         "neighborhood": "West Cambridge"
     },
@@ -1374,7 +1374,7 @@
     {
         "id": 198,
         "name": "Avett",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.38272992, "y": -71.13727131 },
         "neighborhood": "West Cambridge"
     },
@@ -1395,7 +1395,7 @@
     {
         "id": 201,
         "name": "Axel",
-        "breed": "Mountain Cur Mix",
+        "breed": "Mountain Cur",
         "location": { "x": 42.38683786, "y": -71.13079509 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1409,7 +1409,7 @@
     {
         "id": 203,
         "name": "Ayla",
-        "breed": "Aussie Mix",
+        "breed": "Aussie",
         "location": { "x": 42.36733247, "y": -71.08257229 },
         "neighborhood": "East Cambridge"
     },
@@ -1430,7 +1430,7 @@
     {
         "id": 206,
         "name": "Azulita",
-        "breed": "Weimaraner Mix",
+        "breed": "Weimaraner",
         "location": { "x": 42.37131755, "y": -71.07111514 },
         "neighborhood": "East Cambridge"
     },
@@ -1458,7 +1458,7 @@
     {
         "id": 210,
         "name": "Baby",
-        "breed": "Chihuahua Dachsund Mix",
+        "breed": "Chihuahua Dachsund",
         "location": { "x": 42.37226492, "y": -71.0902199 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -1472,14 +1472,14 @@
     {
         "id": 212,
         "name": "Baby Horace",
-        "breed": "Shih Tzu Mix",
+        "breed": "Shih Tzu",
         "location": { "x": 42.3713251, "y": -71.12619115 },
         "neighborhood": "West Cambridge"
     },
     {
         "id": 213,
         "name": "Baby Renta",
-        "breed": "Shih - Tzu",
+        "breed": "Shih Tzu",
         "location": { "x": 42.38825122, "y": -71.13462379 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1563,7 +1563,7 @@
     {
         "id": 225,
         "name": "Bailey",
-        "breed": "Spaniel Mix",
+        "breed": "Spaniel",
         "location": { "x": 42.39388361, "y": -71.14592727 },
         "neighborhood": "North Cambridge"
     },
@@ -1577,7 +1577,7 @@
     {
         "id": 227,
         "name": "Bailey",
-        "breed": "Australian Cattle Dog Mix",
+        "breed": "Australian Cattle Dog",
         "location": { "x": 42.35678715, "y": -71.10711607 },
         "neighborhood": "Cambridgeport"
     },
@@ -1696,7 +1696,7 @@
     {
         "id": 244,
         "name": "Bailey",
-        "breed": "Hound Mix",
+        "breed": "Hound",
         "location": { "x": 42.37996303, "y": -71.15475093 },
         "neighborhood": "Strawberry Hill"
     },
@@ -1780,7 +1780,7 @@
     {
         "id": 256,
         "name": "Bandit",
-        "breed": "Australian Shep Mix",
+        "breed": "Australian Shep",
         "location": { "x": 42.39887615, "y": -71.1372583 },
         "neighborhood": "North Cambridge"
     },
@@ -1801,7 +1801,7 @@
     {
         "id": 259,
         "name": "Bandit",
-        "breed": "Mountain Cur Mix",
+        "breed": "Mountain Cur",
         "location": { "x": 42.37120516, "y": -71.08357329 },
         "neighborhood": "East Cambridge"
     },
@@ -1857,7 +1857,7 @@
     {
         "id": 267,
         "name": "Banjo",
-        "breed": "Chihuahua Mix",
+        "breed": "Chihuahua",
         "location": { "x": 42.39428079, "y": -71.13022075 },
         "neighborhood": "North Cambridge"
     },
@@ -1878,14 +1878,14 @@
     {
         "id": 270,
         "name": "Barcley",
-        "breed": "Chihuahua Mix",
+        "breed": "Chihuahua",
         "location": { "x": 42.38212224, "y": -71.14378748 },
         "neighborhood": "West Cambridge"
     },
     {
         "id": 271,
         "name": "Bard",
-        "breed": "German Shepard Mix",
+        "breed": "German Shepard",
         "location": { "x": 42.38473292, "y": -71.1298256 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1997,14 +1997,14 @@
     {
         "id": 287,
         "name": "Barney",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.39850214, "y": -71.13934 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 288,
         "name": "Barney",
-        "breed": "Dachshund Mix",
+        "breed": "Dachshund",
         "location": { "x": 42.39727578, "y": -71.13474548 },
         "neighborhood": "North Cambridge"
     },
@@ -2018,7 +2018,7 @@
     {
         "id": 290,
         "name": "Barnicle",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.37659118, "y": -71.14899728 },
         "neighborhood": "Strawberry Hill"
     },
@@ -2032,7 +2032,7 @@
     {
         "id": 292,
         "name": "Bartok",
-        "breed": "Labrador Mix",
+        "breed": "Labrador",
         "location": { "x": 42.35969899, "y": -71.08260852 },
         "neighborhood": "Area 2/MIT"
     },
@@ -2081,7 +2081,7 @@
     {
         "id": 299,
         "name": "Baxter",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.394117, "y": -71.13161373 },
         "neighborhood": "North Cambridge"
     },
@@ -2158,7 +2158,7 @@
     {
         "id": 310,
         "name": "Baylee",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.39137067, "y": -71.1399691 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -2221,7 +2221,7 @@
     {
         "id": 319,
         "name": "Beans",
-        "breed": "Lab / Shep",
+        "breed": "Lab Shep",
         "location": { "x": 42.38207422, "y": -71.1190668 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -2277,7 +2277,7 @@
     {
         "id": 327,
         "name": "Bear",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37832305, "y": -71.1438622 },
         "neighborhood": "West Cambridge"
     },
@@ -2319,7 +2319,7 @@
     {
         "id": 333,
         "name": "Beatrice",
-        "breed": "Boxer Mix",
+        "breed": "Boxer",
         "location": { "x": 42.3707795, "y": -71.07749085 },
         "neighborhood": "East Cambridge"
     },
@@ -2382,7 +2382,7 @@
     {
         "id": 342,
         "name": "Beau",
-        "breed": "Bernese & Border Mix",
+        "breed": "Bernese & Border",
         "location": { "x": 42.39221445, "y": -71.13912155 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -2417,7 +2417,7 @@
     {
         "id": 347,
         "name": "Beba",
-        "breed": "Pekingese Mix",
+        "breed": "Pekingese",
         "location": { "x": 42.35830664, "y": -71.10460495 },
         "neighborhood": "Cambridgeport"
     },
@@ -2487,7 +2487,7 @@
     {
         "id": 357,
         "name": "Beezus",
-        "breed": "Shi Tsu / Terrier / Mix",
+        "breed": "Shi Tsu Terrier",
         "location": { "x": 42.38595782, "y": -71.12022712 },
         "neighborhood": "Agassiz"
     },
@@ -2522,7 +2522,7 @@
     {
         "id": 362,
         "name": "Bella",
-        "breed": "Hound Mix",
+        "breed": "Hound",
         "location": { "x": 42.38476686, "y": -71.12160875 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -2746,7 +2746,7 @@
     {
         "id": 394,
         "name": "Bella",
-        "breed": "Italian Greyhould",
+        "breed": "Italian Greyhound",
         "location": { "x": 42.36316252, "y": -71.10350241 },
         "neighborhood": "Cambridgeport"
     },
@@ -2900,7 +2900,7 @@
     {
         "id": 416,
         "name": "Belle",
-        "breed": "Lab Mix",
+        "breed": "Lab",
         "location": { "x": 42.37172149, "y": -71.09165537 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -2921,7 +2921,7 @@
     {
         "id": 419,
         "name": "Belle",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37249236, "y": -71.08216378 },
         "neighborhood": "East Cambridge"
     },
@@ -2935,7 +2935,7 @@
     {
         "id": 421,
         "name": "Belle",
-        "breed": "Cocker Span Mix",
+        "breed": "Cocker Span",
         "location": { "x": 42.38293158, "y": -71.12692451 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -3089,7 +3089,7 @@
     {
         "id": 443,
         "name": "Benson",
-        "breed": "Plott Hound Mix",
+        "breed": "Plott Hound",
         "location": { "x": 42.37389513, "y": -71.08213404 },
         "neighborhood": "East Cambridge"
     },
@@ -3124,7 +3124,7 @@
     {
         "id": 448,
         "name": "Bentley",
-        "breed": "Lab Mix",
+        "breed": "Lab",
         "location": { "x": 42.36272883, "y": -71.10745507 },
         "neighborhood": "Cambridgeport"
     },
@@ -3145,7 +3145,7 @@
     {
         "id": 451,
         "name": "Bentley",
-        "breed": "Black Lab Mix",
+        "breed": "Black Lab",
         "location": { "x": 42.36925198, "y": -71.07452392 },
         "neighborhood": "East Cambridge"
     },
@@ -3208,7 +3208,7 @@
     {
         "id": 460,
         "name": "Berkeley",
-        "breed": "Black Labrador Mix",
+        "breed": "Black Labrador",
         "location": { "x": 42.38206308, "y": -71.14335466 },
         "neighborhood": "West Cambridge"
     },
@@ -3243,7 +3243,7 @@
     {
         "id": 465,
         "name": "Bernie Mcdonough",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.36978509, "y": -71.09267572 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -3313,21 +3313,21 @@
     {
         "id": 475,
         "name": "Betty",
-        "breed": "Cockapoo Mix",
+        "breed": "Cockapoo",
         "location": { "x": 42.38277169, "y": -71.13593404 },
         "neighborhood": "Neighborhood Nine"
     },
     {
         "id": 476,
         "name": "Betty",
-        "breed": "Beagle Mix",
+        "breed": "Beagle",
         "location": { "x": 42.39273739, "y": -71.12964587 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 477,
         "name": "Betty",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37251837, "y": -71.09941371 },
         "neighborhood": "The Port"
     },
@@ -3425,7 +3425,7 @@
     {
         "id": 491,
         "name": "Bindi",
-        "breed": "Spaniel Mix",
+        "breed": "Spaniel",
         "location": { "x": 42.37859975, "y": -71.14154137 },
         "neighborhood": "West Cambridge"
     },
@@ -3446,7 +3446,7 @@
     {
         "id": 494,
         "name": "Bingo",
-        "breed": "Jack Russell Terrier Mix",
+        "breed": "Jack Russell Terrier",
         "location": { "x": 42.39662678, "y": -71.13044843 },
         "neighborhood": "North Cambridge"
     },
@@ -3488,7 +3488,7 @@
     {
         "id": 500,
         "name": "Birdie",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.36970395, "y": -71.11053053 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -3502,7 +3502,7 @@
     {
         "id": 502,
         "name": "Birdie",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.36710551, "y": -71.08089944 },
         "neighborhood": "East Cambridge"
     },
@@ -3614,7 +3614,7 @@
     {
         "id": 518,
         "name": "Blanca",
-        "breed": "Chihuahua Sh Mix",
+        "breed": "Chihuahua Sh",
         "location": { "x": 42.37072106, "y": -71.07819997 },
         "neighborhood": "East Cambridge"
     },
@@ -3698,7 +3698,7 @@
     {
         "id": 530,
         "name": "Blue",
-        "breed": "Hound Cross Mix",
+        "breed": "Hound Cross",
         "location": { "x": 42.37430732, "y": -71.12918567 },
         "neighborhood": "West Cambridge"
     },
@@ -3719,7 +3719,7 @@
     {
         "id": 533,
         "name": "Blue",
-        "breed": "Hound Mix",
+        "breed": "Hound",
         "location": { "x": 42.39522908, "y": -71.12516425 },
         "neighborhood": "North Cambridge"
     },
@@ -3747,7 +3747,7 @@
     {
         "id": 537,
         "name": "Bob",
-        "breed": "Italian Greyhould",
+        "breed": "Italian Greyhound",
         "location": { "x": 42.36772925, "y": -71.10514193 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -3775,7 +3775,7 @@
     {
         "id": 541,
         "name": "Bobo",
-        "breed": "Pomeranian Mix",
+        "breed": "Pomeranian",
         "location": { "x": 42.35721417, "y": -71.11169333 },
         "neighborhood": "Cambridgeport"
     },
@@ -3796,7 +3796,7 @@
     {
         "id": 544,
         "name": "Bode",
-        "breed": "Boston Terrier Mix",
+        "breed": "Boston Terrier",
         "location": { "x": 42.37004173, "y": -71.08654726 },
         "neighborhood": "East Cambridge"
     },
@@ -3957,7 +3957,7 @@
     {
         "id": 567,
         "name": "Bonnie Killeen",
-        "breed": "Labrador Ter Mix",
+        "breed": "Labrador Ter",
         "location": { "x": 42.39690061, "y": -71.14713971 },
         "neighborhood": "North Cambridge"
     },
@@ -4006,7 +4006,7 @@
     {
         "id": 574,
         "name": "Boo",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.3810862, "y": -71.12005039 },
         "neighborhood": "Agassiz"
     },
@@ -4069,7 +4069,7 @@
     {
         "id": 583,
         "name": "Boomer",
-        "breed": "Labrador Beagle Mix",
+        "breed": "Labrador Beagle",
         "location": { "x": 42.36981547, "y": -71.0923783 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -4251,7 +4251,7 @@
     {
         "id": 609,
         "name": "Box",
-        "breed": "Collie Mix",
+        "breed": "Collie",
         "location": { "x": 42.39957231, "y": -71.13003819 },
         "neighborhood": "North Cambridge"
     },
@@ -4265,14 +4265,14 @@
     {
         "id": 611,
         "name": "Bracket",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.36773277, "y": -71.11121004 },
         "neighborhood": "Riverside"
     },
     {
         "id": 612,
         "name": "Bradley",
-        "breed": "Heeler Border Collie Mix",
+        "breed": "Heeler Border Collie",
         "location": { "x": 42.39770684, "y": -71.13136022 },
         "neighborhood": "North Cambridge"
     },
@@ -4286,7 +4286,7 @@
     {
         "id": 614,
         "name": "Brady",
-        "breed": "Pomeranian & Shih Tzu Mix",
+        "breed": "Pomeranian & Shih Tzu",
         "location": { "x": 42.39376898, "y": -71.14599607 },
         "neighborhood": "North Cambridge"
     },
@@ -4328,7 +4328,7 @@
     {
         "id": 620,
         "name": "Brady",
-        "breed": "Maltese Mix",
+        "breed": "Maltese",
         "location": { "x": 42.38595995, "y": -71.12537428 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -4349,7 +4349,7 @@
     {
         "id": 623,
         "name": "Bravos",
-        "breed": "Pitbull Mix",
+        "breed": "Pitbull",
         "location": { "x": 42.37311955, "y": -71.09250992 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -4384,7 +4384,7 @@
     {
         "id": 628,
         "name": "Brewster",
-        "breed": "Corgi/Sheltie Mix",
+        "breed": "Corgi/Sheltie",
         "location": { "x": 42.38943987, "y": -71.1324552 },
         "neighborhood": "North Cambridge"
     },
@@ -4468,14 +4468,14 @@
     {
         "id": 640,
         "name": "Broja",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38319314, "y": -71.13405271 },
         "neighborhood": "Neighborhood Nine"
     },
     {
         "id": 641,
         "name": "Bronson",
-        "breed": "Keeshond Mix",
+        "breed": "Keeshond",
         "location": { "x": 42.39373425, "y": -71.14564081 },
         "neighborhood": "Cambridge Highlands"
     },
@@ -4489,7 +4489,7 @@
     {
         "id": 643,
         "name": "Bronx",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.3844265, "y": -71.14090103 },
         "neighborhood": "West Cambridge"
     },
@@ -4531,7 +4531,7 @@
     {
         "id": 649,
         "name": "Brownie",
-        "breed": "German Shepherd Mix",
+        "breed": "German Shepherd",
         "location": { "x": 42.35939689, "y": -71.11047347 },
         "neighborhood": "Cambridgeport"
     },
@@ -4622,7 +4622,7 @@
     {
         "id": 662,
         "name": "Bru Schellhorn",
-        "breed": "Rhodesian Ridgeback Mix",
+        "breed": "Rhodesian Ridgeback",
         "location": { "x": 42.3578077, "y": -71.11199011 },
         "neighborhood": "Cambridgeport"
     },
@@ -4664,7 +4664,7 @@
     {
         "id": 668,
         "name": "Bubba Arthur",
-        "breed": "Yorkshire Terrier / Shih Tzu",
+        "breed": "Yorkshire Terrier Shih Tzu",
         "location": { "x": 42.38830956, "y": -71.11874612 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -4769,7 +4769,7 @@
     {
         "id": 683,
         "name": "Buddy",
-        "breed": "Dachshund Mix",
+        "breed": "Dachshund",
         "location": { "x": 42.36379408, "y": -71.10553658 },
         "neighborhood": "Cambridgeport"
     },
@@ -4804,7 +4804,7 @@
     {
         "id": 688,
         "name": "Buddy",
-        "breed": "Lab Mix",
+        "breed": "Lab",
         "location": { "x": 42.37027399, "y": -71.10555615 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -4832,7 +4832,7 @@
     {
         "id": 692,
         "name": "Buddy",
-        "breed": "Labrador Retriever Mix",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.39303003, "y": -71.12600976 },
         "neighborhood": "North Cambridge"
     },
@@ -4909,7 +4909,7 @@
     {
         "id": 703,
         "name": "Buffy",
-        "breed": "Pitbull Mix",
+        "breed": "Pitbull",
         "location": { "x": 42.40161756, "y": -71.13381506 },
         "neighborhood": "North Cambridge"
     },
@@ -4944,7 +4944,7 @@
     {
         "id": 708,
         "name": "Bugsy",
-        "breed": "Pit Bull Mix",
+        "breed": "Pit Bull",
         "location": { "x": 42.368831, "y": -71.09178586 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -5007,7 +5007,7 @@
     {
         "id": 717,
         "name": "Buri",
-        "breed": "Thai Mix",
+        "breed": "Thai",
         "location": { "x": 42.39637349, "y": -71.14793473 },
         "neighborhood": "North Cambridge"
     },
@@ -5070,7 +5070,7 @@
     {
         "id": 726,
         "name": "Buttercup",
-        "breed": "Beagle/Dachshund Mix",
+        "breed": "Beagle/Dachshund",
         "location": { "x": 42.37680555, "y": -71.12641757 },
         "neighborhood": "West Cambridge"
     },
@@ -5098,7 +5098,7 @@
     {
         "id": 730,
         "name": "Cadence",
-        "breed": "German Shepherd Mix",
+        "breed": "German Shepherd",
         "location": { "x": 42.39411274, "y": -71.12871831 },
         "neighborhood": "North Cambridge"
     },
@@ -5140,7 +5140,7 @@
     {
         "id": 736,
         "name": "Callie",
-        "breed": "Mutt-Shepherd Mix",
+        "breed": "Mutt-Shepherd",
         "location": { "x": 42.35657666, "y": -71.10981159 },
         "neighborhood": "Cambridgeport"
     },
@@ -5168,7 +5168,7 @@
     {
         "id": 740,
         "name": "Callie",
-        "breed": "Beagle Mix",
+        "breed": "Beagle",
         "location": { "x": 42.36789405, "y": -71.11494405 },
         "neighborhood": "Riverside"
     },
@@ -5259,7 +5259,7 @@
     {
         "id": 753,
         "name": "Camila",
-        "breed": "Chihuahua Mix",
+        "breed": "Chihuahua",
         "location": { "x": 42.36334575, "y": -71.10866474 },
         "neighborhood": "Cambridgeport"
     },
@@ -5294,7 +5294,7 @@
     {
         "id": 758,
         "name": "Cannoli",
-        "breed": "Hound Mix",
+        "breed": "Hound",
         "location": { "x": 42.37989397, "y": -71.15139428 },
         "neighborhood": "Strawberry Hill"
     },
@@ -5343,7 +5343,7 @@
     {
         "id": 765,
         "name": "Carino",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.3676435, "y": -71.10919426 },
         "neighborhood": "Riverside"
     },
@@ -5413,7 +5413,7 @@
     {
         "id": 775,
         "name": "Carmello",
-        "breed": "Corgi Mix",
+        "breed": "Corgi",
         "location": { "x": 42.36826108, "y": -71.0737135 },
         "neighborhood": "East Cambridge"
     },
@@ -5637,7 +5637,7 @@
     {
         "id": 807,
         "name": "Cerberus",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.38847766, "y": -71.12585072 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -5672,7 +5672,7 @@
     {
         "id": 812,
         "name": "Champ",
-        "breed": "Boxer Mix",
+        "breed": "Boxer",
         "location": { "x": 42.35566147, "y": -71.10759654 },
         "neighborhood": "Cambridgeport"
     },
@@ -5756,14 +5756,14 @@
     {
         "id": 824,
         "name": "Charley",
-        "breed": "Lab / Shep",
+        "breed": "Lab Shep",
         "location": { "x": 42.36537728, "y": -71.08257087 },
         "neighborhood": "East Cambridge"
     },
     {
         "id": 825,
         "name": "Charley",
-        "breed": "Lab Chow Mix",
+        "breed": "Lab Chow",
         "location": { "x": 42.3637471, "y": -71.09896888 },
         "neighborhood": "The Port"
     },
@@ -5861,7 +5861,7 @@
     {
         "id": 839,
         "name": "Charlie",
-        "breed": "Yorkshire Maltese Mix",
+        "breed": "Yorkshire Maltese",
         "location": { "x": 42.36760678, "y": -71.08542117 },
         "neighborhood": "East Cambridge"
     },
@@ -5882,7 +5882,7 @@
     {
         "id": 842,
         "name": "Charlie",
-        "breed": "Labrador / Hound",
+        "breed": "Labrador Hound",
         "location": { "x": 42.35588725, "y": -71.10875338 },
         "neighborhood": "Cambridgeport"
     },
@@ -5973,7 +5973,7 @@
     {
         "id": 855,
         "name": "Charlie",
-        "breed": "Papillion Mix",
+        "breed": "Papillion",
         "location": { "x": 42.37486419, "y": -71.10368138 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -5994,7 +5994,7 @@
     {
         "id": 858,
         "name": "Charlie",
-        "breed": "Choc Lab Mix",
+        "breed": "Choc Lab",
         "location": { "x": 42.38393069, "y": -71.11902234 },
         "neighborhood": "Agassiz"
     },
@@ -6029,7 +6029,7 @@
     {
         "id": 863,
         "name": "Charlie",
-        "breed": "Border Collie Mix",
+        "breed": "Border Collie",
         "location": { "x": 42.36667592, "y": -71.10639051 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -6085,7 +6085,7 @@
     {
         "id": 871,
         "name": "Charlie",
-        "breed": "Boston Terrier Mix",
+        "breed": "Boston Terrier",
         "location": { "x": 42.37061894, "y": -71.10981365 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -6190,14 +6190,14 @@
     {
         "id": 886,
         "name": "Cherokee",
-        "breed": "Lab Pointer Mix",
+        "breed": "Lab Pointer",
         "location": { "x": 42.39698216, "y": -71.14814848 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 887,
         "name": "Chesney",
-        "breed": "Hound Mix",
+        "breed": "Hound",
         "location": { "x": 42.39314015, "y": -71.14699986 },
         "neighborhood": "North Cambridge"
     },
@@ -6344,7 +6344,7 @@
     {
         "id": 908,
         "name": "Chi Chi",
-        "breed": "Maltese Mix",
+        "breed": "Maltese",
         "location": { "x": 42.36792732, "y": -71.09567689 },
         "neighborhood": "The Port"
     },
@@ -6365,7 +6365,7 @@
     {
         "id": 911,
         "name": "Chiki",
-        "breed": "Lab Mix",
+        "breed": "Lab",
         "location": { "x": 42.36489046, "y": -71.09711747 },
         "neighborhood": "The Port"
     },
@@ -6386,7 +6386,7 @@
     {
         "id": 914,
         "name": "Chilton",
-        "breed": "Blue Heeler Mix",
+        "breed": "Blue Heeler",
         "location": { "x": 42.38628396, "y": -71.13862961 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -6435,7 +6435,7 @@
     {
         "id": 921,
         "name": "Chloe",
-        "breed": "Border Colie Mix",
+        "breed": "Border Colie",
         "location": { "x": 42.36877661, "y": -71.09951593 },
         "neighborhood": "The Port"
     },
@@ -6484,7 +6484,7 @@
     {
         "id": 928,
         "name": "Chloe",
-        "breed": "German Shepherd Mix",
+        "breed": "German Shepherd",
         "location": { "x": 42.35649435, "y": -71.11227572 },
         "neighborhood": "Cambridgeport"
     },
@@ -6533,7 +6533,7 @@
     {
         "id": 935,
         "name": "Chloe",
-        "breed": "Aust Cattle Dog Mix",
+        "breed": "Aust Cattle Dog",
         "location": { "x": 42.37839236, "y": -71.14844272 },
         "neighborhood": "Strawberry Hill"
     },
@@ -6596,14 +6596,14 @@
     {
         "id": 944,
         "name": "Choco",
-        "breed": "Cavalier King Charles Spaniel Mix",
+        "breed": "Cavalier King Charles Spaniel",
         "location": { "x": 42.37287324, "y": -71.07459407 },
         "neighborhood": "East Cambridge"
     },
     {
         "id": 945,
         "name": "Choloe",
-        "breed": "Lab Mix",
+        "breed": "Lab",
         "location": { "x": 42.36110619, "y": -71.10941011 },
         "neighborhood": "Cambridgeport"
     },
@@ -6638,7 +6638,7 @@
     {
         "id": 950,
         "name": "Chowder",
-        "breed": "Terrier Mix",
+        "breed": "Terrier",
         "location": { "x": 42.37835226, "y": -71.14186265 },
         "neighborhood": "West Cambridge"
     },
@@ -6680,7 +6680,7 @@
     {
         "id": 956,
         "name": "Chula",
-        "breed": "Italian Greyhould",
+        "breed": "Italian Greyhound",
         "location": { "x": 42.36341732, "y": -71.10888277 },
         "neighborhood": "Cambridgeport"
     },
@@ -6855,7 +6855,7 @@
     {
         "id": 981,
         "name": "Clark",
-        "breed": "Lab Mix",
+        "breed": "Lab",
         "location": { "x": 42.38104575, "y": -71.13849245 },
         "neighborhood": "West Cambridge"
     },
@@ -6911,7 +6911,7 @@
     {
         "id": 989,
         "name": "Clementine",
-        "breed": "Lab/Hound Mix",
+        "breed": "Lab/Hound",
         "location": { "x": 42.40068946, "y": -71.13139357 },
         "neighborhood": "NA"
     },
