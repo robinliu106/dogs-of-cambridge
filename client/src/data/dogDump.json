@@ -9,14 +9,14 @@
     {
         "id": 2,
         "name": "Abbey",
-        "breed": "Shih Tzu Bichon",
+        "breed": "Bichon Frise",
         "location": { "x": 42.36863542, "y": -71.08340476 },
         "neighborhood": "East Cambridge"
     },
     {
         "id": 3,
         "name": "Abbie Tingley",
-        "breed": "Bull Terrier",
+        "breed": "Terrier",
         "location": { "x": 42.38701301, "y": -71.14475923 },
         "neighborhood": "Cambridge Highlands"
     },
@@ -212,7 +212,7 @@
     {
         "id": 32,
         "name": "Adelaide",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37734321, "y": -71.13490797 },
         "neighborhood": "West Cambridge"
     },
@@ -261,7 +261,7 @@
     {
         "id": 39,
         "name": "Ajax",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36681514, "y": -71.08393198 },
         "neighborhood": "East Cambridge"
     },
@@ -275,7 +275,7 @@
     {
         "id": 41,
         "name": "Ajax",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37069036, "y": -71.10001091 },
         "neighborhood": "The Port"
     },
@@ -324,7 +324,7 @@
     {
         "id": 48,
         "name": "Alba",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38509985, "y": -71.12012637 },
         "neighborhood": "Agassiz"
     },
@@ -436,7 +436,7 @@
     {
         "id": 64,
         "name": "Alice",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37610015, "y": -71.13489919 },
         "neighborhood": "West Cambridge"
     },
@@ -562,7 +562,7 @@
     {
         "id": 82,
         "name": "Amana",
-        "breed": "Pitbull",
+        "breed": "Pomeranian",
         "location": { "x": 42.3629801, "y": -71.11188341 },
         "neighborhood": "Riverside"
     },
@@ -625,7 +625,7 @@
     {
         "id": 91,
         "name": "Andre",
-        "breed": "Toy Poodle",
+        "breed": "Toy Poodle (Toy)",
         "location": { "x": 42.36171743, "y": -71.11004316 },
         "neighborhood": "Cambridgeport"
     },
@@ -653,14 +653,14 @@
     {
         "id": 95,
         "name": "Angel",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.39465379, "y": -71.12866597 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 96,
         "name": "Angel",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.36567054, "y": -71.1062647 },
         "neighborhood": "Cambridgeport"
     },
@@ -709,7 +709,7 @@
     {
         "id": 103,
         "name": "Anna",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.38946313, "y": -71.11911478 },
         "neighborhood": "North Cambridge"
     },
@@ -737,7 +737,7 @@
     {
         "id": 107,
         "name": "Annie",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.39957066, "y": -71.13563762 },
         "neighborhood": "North Cambridge"
     },
@@ -772,7 +772,7 @@
     {
         "id": 112,
         "name": "Annie",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.36664275, "y": -71.10794792 },
         "neighborhood": "Riverside"
     },
@@ -793,7 +793,7 @@
     {
         "id": 115,
         "name": "Annie",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.39381438, "y": -71.12811179 },
         "neighborhood": "North Cambridge"
     },
@@ -842,7 +842,7 @@
     {
         "id": 122,
         "name": "Annie/Hildegaard",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.39864447, "y": -71.13222621 },
         "neighborhood": "North Cambridge"
     },
@@ -856,7 +856,7 @@
     {
         "id": 124,
         "name": "Anubis",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.39918135, "y": -71.1323078 },
         "neighborhood": "North Cambridge"
     },
@@ -884,7 +884,7 @@
     {
         "id": 128,
         "name": "Apollo",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37072292, "y": -71.12099402 },
         "neighborhood": "West Cambridge"
     },
@@ -898,14 +898,14 @@
     {
         "id": 130,
         "name": "Apollo",
-        "breed": "Pit Bull Terrier",
+        "breed": "Pit Terrier",
         "location": { "x": 42.38796802, "y": -71.133027 },
         "neighborhood": "Neighborhood Nine"
     },
     {
         "id": 131,
         "name": "Apollo",
-        "breed": "Pitbull Terrier",
+        "breed": "PitTerrier",
         "location": { "x": 42.38751708, "y": -71.13238547 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -933,7 +933,7 @@
     {
         "id": 135,
         "name": "Archie",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.38378381, "y": -71.11902195 },
         "neighborhood": "Agassiz"
     },
@@ -1010,7 +1010,7 @@
     {
         "id": 146,
         "name": "Arianna",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.38380337, "y": -71.13764568 },
         "neighborhood": "West Cambridge"
     },
@@ -1066,7 +1066,7 @@
     {
         "id": 154,
         "name": "Arrow",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36035777, "y": -71.11422322 },
         "neighborhood": "Cambridgeport"
     },
@@ -1094,7 +1094,7 @@
     {
         "id": 158,
         "name": "Arya",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.39588276, "y": -71.13458843 },
         "neighborhood": "North Cambridge"
     },
@@ -1241,7 +1241,7 @@
     {
         "id": 179,
         "name": "Atom",
-        "breed": "Miniature Schnauzer",
+        "breed": "Schnauzer",
         "location": { "x": 42.3792008, "y": -71.11906093 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1262,7 +1262,7 @@
     {
         "id": 182,
         "name": "Atticus",
-        "breed": "Miniature Goldendoodle",
+        "breed": "Goldendoodle",
         "location": { "x": 42.38176686, "y": -71.11983234 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1332,14 +1332,14 @@
     {
         "id": 192,
         "name": "Austin",
-        "breed": "Labradoodle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38741204, "y": -71.12672348 },
         "neighborhood": "Neighborhood Nine"
     },
     {
         "id": 193,
         "name": "Austin",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38864389, "y": -71.12492942 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1444,7 +1444,7 @@
     {
         "id": 208,
         "name": "Babette",
-        "breed": "Miniature Bull Terrier",
+        "breed": "Terrier",
         "location": { "x": 42.36196199, "y": -71.08351815 },
         "neighborhood": "East Cambridge"
     },
@@ -1528,7 +1528,7 @@
     {
         "id": 220,
         "name": "Bailey",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.39401087, "y": -71.15311931 },
         "neighborhood": "Cambridge Highlands"
     },
@@ -1605,7 +1605,7 @@
     {
         "id": 231,
         "name": "Bailey",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.39745441, "y": -71.12954711 },
         "neighborhood": "North Cambridge"
     },
@@ -1626,7 +1626,7 @@
     {
         "id": 234,
         "name": "Bailey",
-        "breed": "Lhasa Poo",
+        "breed": "Lhasa Apso",
         "location": { "x": 42.39870053, "y": -71.13462738 },
         "neighborhood": "North Cambridge"
     },
@@ -1661,7 +1661,7 @@
     {
         "id": 239,
         "name": "Bailey",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.3727571, "y": -71.07937676 },
         "neighborhood": "East Cambridge"
     },
@@ -1703,7 +1703,7 @@
     {
         "id": 245,
         "name": "Bailey",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38885757, "y": -71.13017634 },
         "neighborhood": "North Cambridge"
     },
@@ -1731,7 +1731,7 @@
     {
         "id": 249,
         "name": "Baloo",
-        "breed": "LABRADOODLE",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.36616797, "y": -71.08315338 },
         "neighborhood": "East Cambridge"
     },
@@ -1787,7 +1787,7 @@
     {
         "id": 257,
         "name": "Bandit",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.3708271, "y": -71.08307124 },
         "neighborhood": "East Cambridge"
     },
@@ -1829,7 +1829,7 @@
     {
         "id": 263,
         "name": "Banjo",
-        "breed": "Miniature Australian Shepherd",
+        "breed": "Australian Shepherd",
         "location": { "x": 42.36345193, "y": -71.10618151 },
         "neighborhood": "Cambridgeport"
     },
@@ -1913,7 +1913,7 @@
     {
         "id": 275,
         "name": "Barkley",
-        "breed": "Long Hair Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.38428786, "y": -71.12816506 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -1941,7 +1941,7 @@
     {
         "id": 279,
         "name": "Barley",
-        "breed": "Labradoodle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37426564, "y": -71.13756283 },
         "neighborhood": "West Cambridge"
     },
@@ -1955,7 +1955,7 @@
     {
         "id": 281,
         "name": "Barnaby",
-        "breed": "Standard Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.39575673, "y": -71.13594624 },
         "neighborhood": "North Cambridge"
     },
@@ -2004,14 +2004,14 @@
     {
         "id": 288,
         "name": "Barney",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.39727578, "y": -71.13474548 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 289,
         "name": "Barney",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.3971297, "y": -71.13436068 },
         "neighborhood": "North Cambridge"
     },
@@ -2109,7 +2109,7 @@
     {
         "id": 303,
         "name": "Baxter",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37444085, "y": -71.14015003 },
         "neighborhood": "West Cambridge"
     },
@@ -2214,7 +2214,7 @@
     {
         "id": 318,
         "name": "Beamer",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.36056947, "y": -71.10563344 },
         "neighborhood": "Cambridgeport"
     },
@@ -2228,7 +2228,7 @@
     {
         "id": 320,
         "name": "Bear",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.38517193, "y": -71.13911977 },
         "neighborhood": "West Cambridge"
     },
@@ -2403,7 +2403,7 @@
     {
         "id": 345,
         "name": "Beau Green",
-        "breed": "Standard Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36940112, "y": -71.09107301 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -2473,7 +2473,7 @@
     {
         "id": 355,
         "name": "Beemo",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37089482, "y": -71.11134276 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -2501,7 +2501,7 @@
     {
         "id": 359,
         "name": "Bekka",
-        "breed": "Toy Poodle",
+        "breed": "Toy Poodle (Toy)",
         "location": { "x": 42.37403907, "y": -71.13178075 },
         "neighborhood": "West Cambridge"
     },
@@ -2515,7 +2515,7 @@
     {
         "id": 361,
         "name": "Belinda",
-        "breed": "Labradoodle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38734461, "y": -71.13794908 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -2536,7 +2536,7 @@
     {
         "id": 364,
         "name": "Bella",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.36880833, "y": -71.08267368 },
         "neighborhood": "East Cambridge"
     },
@@ -2550,7 +2550,7 @@
     {
         "id": 366,
         "name": "Bella",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.37453404, "y": -71.0953181 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -2571,14 +2571,14 @@
     {
         "id": 369,
         "name": "Bella",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37402184, "y": -71.11117255 },
         "neighborhood": "Mid-Cambridge"
     },
     {
         "id": 370,
         "name": "Bella",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37582927, "y": -71.13162999 },
         "neighborhood": "West Cambridge"
     },
@@ -2620,7 +2620,7 @@
     {
         "id": 376,
         "name": "Bella",
-        "breed": "Toy Poodle",
+        "breed": "Toy Poodle (Toy)",
         "location": { "x": 42.39167556, "y": -71.12177412 },
         "neighborhood": "North Cambridge"
     },
@@ -2648,7 +2648,7 @@
     {
         "id": 380,
         "name": "Bella",
-        "breed": "Miniature Schnauzer",
+        "breed": "Schnauzer",
         "location": { "x": 42.35979693, "y": -71.11127026 },
         "neighborhood": "Cambridgeport"
     },
@@ -2683,7 +2683,7 @@
     {
         "id": 385,
         "name": "Bella",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.37155402, "y": -71.08028364 },
         "neighborhood": "East Cambridge"
     },
@@ -2718,7 +2718,7 @@
     {
         "id": 390,
         "name": "Bella",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.37060753, "y": -71.09034734 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -2788,7 +2788,7 @@
     {
         "id": 400,
         "name": "Bella",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.39680173, "y": -71.13490711 },
         "neighborhood": "North Cambridge"
     },
@@ -2816,7 +2816,7 @@
     {
         "id": 404,
         "name": "Bella",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37595221, "y": -71.12906199 },
         "neighborhood": "West Cambridge"
     },
@@ -2928,7 +2928,7 @@
     {
         "id": 420,
         "name": "Belle",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.39118646, "y": -71.12449989 },
         "neighborhood": "North Cambridge"
     },
@@ -2970,7 +2970,7 @@
     {
         "id": 426,
         "name": "Ben",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37526022, "y": -71.12476745 },
         "neighborhood": "West Cambridge"
     },
@@ -2991,14 +2991,14 @@
     {
         "id": 429,
         "name": "Ben",
-        "breed": "Standard Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.39379728, "y": -71.14582235 },
         "neighborhood": "Cambridge Highlands"
     },
     {
         "id": 430,
         "name": "Ben Alan Donatello",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.39215164, "y": -71.1474371 },
         "neighborhood": "Cambridge Highlands"
     },
@@ -3075,7 +3075,7 @@
     {
         "id": 441,
         "name": "Benny",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.36866938, "y": -71.0979709 },
         "neighborhood": "The Port"
     },
@@ -3138,7 +3138,7 @@
     {
         "id": 450,
         "name": "Bentley",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.37096993, "y": -71.09104409 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -3173,14 +3173,14 @@
     {
         "id": 455,
         "name": "Benzo",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.38942562, "y": -71.12532901 },
         "neighborhood": "North Cambridge"
     },
     {
         "id": 456,
         "name": "Benzoe",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.38950617, "y": -71.12653259 },
         "neighborhood": "North Cambridge"
     },
@@ -3236,7 +3236,7 @@
     {
         "id": 464,
         "name": "Bernie",
-        "breed": "LABRADOODLE",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.36772772, "y": -71.09762821 },
         "neighborhood": "The Port"
     },
@@ -3334,7 +3334,7 @@
     {
         "id": 478,
         "name": "Betty White-Paws (Betty)",
-        "breed": "Austrailian Labradoodle",
+        "breed": "Austrailian Labrador Retriever",
         "location": { "x": 42.38909654, "y": -71.13104197 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -3383,7 +3383,7 @@
     {
         "id": 485,
         "name": "Bigsby",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.35598257, "y": -71.10909962 },
         "neighborhood": "Cambridgeport"
     },
@@ -3523,7 +3523,7 @@
     {
         "id": 505,
         "name": "Biscuit",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.36955115, "y": -71.11240947 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -3544,14 +3544,14 @@
     {
         "id": 508,
         "name": "Bishop",
-        "breed": "Standard Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36219639, "y": -71.10956425 },
         "neighborhood": "Cambridgeport"
     },
     {
         "id": 509,
         "name": "Bisou",
-        "breed": "Standard Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37751432, "y": -71.13758171 },
         "neighborhood": "West Cambridge"
     },
@@ -3705,7 +3705,7 @@
     {
         "id": 531,
         "name": "Blue",
-        "breed": "Pitbull",
+        "breed": "Pomeranian",
         "location": { "x": 42.36520924, "y": -71.09925119 },
         "neighborhood": "The Port"
     },
@@ -3740,7 +3740,7 @@
     {
         "id": 536,
         "name": "Bob",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37118548, "y": -71.10000719 },
         "neighborhood": "The Port"
     },
@@ -3768,7 +3768,7 @@
     {
         "id": 540,
         "name": "Bobbie",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.36711405, "y": -71.08025633 },
         "neighborhood": "East Cambridge"
     },
@@ -3936,7 +3936,7 @@
     {
         "id": 564,
         "name": "Bonnie",
-        "breed": "Miniature Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.39382933, "y": -71.14526988 },
         "neighborhood": "Cambridge Highlands"
     },
@@ -3950,7 +3950,7 @@
     {
         "id": 566,
         "name": "Bonnie",
-        "breed": "Miniature Pinscher",
+        "breed": "Pinscher",
         "location": { "x": 42.3738498, "y": -71.1248656 },
         "neighborhood": "West Cambridge"
     },
@@ -4055,7 +4055,7 @@
     {
         "id": 581,
         "name": "Boof",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.37406794, "y": -71.08984108 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -4076,7 +4076,7 @@
     {
         "id": 584,
         "name": "Boomer",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38022942, "y": -71.13629089 },
         "neighborhood": "West Cambridge"
     },
@@ -4104,7 +4104,7 @@
     {
         "id": 588,
         "name": "Boots",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.36808615, "y": -71.10334815 },
         "neighborhood": "The Port"
     },
@@ -4174,7 +4174,7 @@
     {
         "id": 598,
         "name": "Boston",
-        "breed": "Pitbull",
+        "breed": "Pomeranian",
         "location": { "x": 42.36749696, "y": -71.08488847 },
         "neighborhood": "East Cambridge"
     },
@@ -4209,7 +4209,7 @@
     {
         "id": 603,
         "name": "Bow",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.3907723, "y": -71.12196488 },
         "neighborhood": "North Cambridge"
     },
@@ -4230,7 +4230,7 @@
     {
         "id": 606,
         "name": "Bowie",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37734761, "y": -71.13151204 },
         "neighborhood": "West Cambridge"
     },
@@ -4300,14 +4300,14 @@
     {
         "id": 616,
         "name": "Brady",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.3779393, "y": -71.14848991 },
         "neighborhood": "Strawberry Hill"
     },
     {
         "id": 617,
         "name": "Brady",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.38204864, "y": -71.12991967 },
         "neighborhood": "West Cambridge"
     },
@@ -4342,21 +4342,21 @@
     {
         "id": 622,
         "name": "Brandy",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37224287, "y": -71.09518408 },
         "neighborhood": "Wellington-Harrington"
     },
     {
         "id": 623,
         "name": "Bravos",
-        "breed": "Pitbull",
+        "breed": "Pomeranian",
         "location": { "x": 42.37311955, "y": -71.09250992 },
         "neighborhood": "Wellington-Harrington"
     },
     {
         "id": 624,
         "name": "Bree",
-        "breed": "American Pit Bull Terrier",
+        "breed": "American Pit Terrier",
         "location": { "x": 42.39102642, "y": -71.12843386 },
         "neighborhood": "North Cambridge"
     },
@@ -4426,7 +4426,7 @@
     {
         "id": 634,
         "name": "Brillo",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.36785862, "y": -71.11571382 },
         "neighborhood": "Riverside"
     },
@@ -4440,7 +4440,7 @@
     {
         "id": 636,
         "name": "Brody",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37079543, "y": -71.10753457 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -4538,14 +4538,14 @@
     {
         "id": 650,
         "name": "Bruce",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.36284624, "y": -71.10638769 },
         "neighborhood": "Riverside"
     },
     {
         "id": 651,
         "name": "Bruce",
-        "breed": "Bull Terrier",
+        "breed": "Terrier",
         "location": { "x": 42.36287725, "y": -71.10489038 },
         "neighborhood": "Cambridgeport"
     },
@@ -4573,7 +4573,7 @@
     {
         "id": 655,
         "name": "Bruiser",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.3687772, "y": -71.08378884 },
         "neighborhood": "East Cambridge"
     },
@@ -4678,7 +4678,7 @@
     {
         "id": 670,
         "name": "Bubbles",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.36292585, "y": -71.10067661 },
         "neighborhood": "The Port"
     },
@@ -4692,7 +4692,7 @@
     {
         "id": 672,
         "name": "Buca",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.37164739, "y": -71.07554181 },
         "neighborhood": "East Cambridge"
     },
@@ -4720,7 +4720,7 @@
     {
         "id": 676,
         "name": "Bucky",
-        "breed": "Poodle (Standard)",
+        "breed": "Poodle (Toy) (Standard)",
         "location": { "x": 42.37853007, "y": -71.13324473 },
         "neighborhood": "West Cambridge"
     },
@@ -4769,7 +4769,7 @@
     {
         "id": 683,
         "name": "Buddy",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.36379408, "y": -71.10553658 },
         "neighborhood": "Cambridgeport"
     },
@@ -4818,7 +4818,7 @@
     {
         "id": 690,
         "name": "Buddy",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.36851814, "y": -71.08665841 },
         "neighborhood": "East Cambridge"
     },
@@ -4839,14 +4839,14 @@
     {
         "id": 693,
         "name": "Buddy",
-        "breed": "American Pit Bull Terr",
+        "breed": "American Pharaoh Hound Terr",
         "location": { "x": 42.3752736, "y": -71.09425538 },
         "neighborhood": "Wellington-Harrington"
     },
     {
         "id": 694,
         "name": "Buddy",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.38510512, "y": -71.11717987 },
         "neighborhood": "Agassiz"
     },
@@ -4909,7 +4909,7 @@
     {
         "id": 703,
         "name": "Buffy",
-        "breed": "Pitbull",
+        "breed": "Pomeranian",
         "location": { "x": 42.40161756, "y": -71.13381506 },
         "neighborhood": "North Cambridge"
     },
@@ -4944,14 +4944,14 @@
     {
         "id": 708,
         "name": "Bugsy",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.368831, "y": -71.09178586 },
         "neighborhood": "Wellington-Harrington"
     },
     {
         "id": 709,
         "name": "Bumper",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37569827, "y": -71.10460561 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -4979,7 +4979,7 @@
     {
         "id": 713,
         "name": "Bunny",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37984897, "y": -71.12706122 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -4993,7 +4993,7 @@
     {
         "id": 715,
         "name": "Burbuja",
-        "breed": "Toy Poodle",
+        "breed": "Toy Poodle (Toy)",
         "location": { "x": 42.37337051, "y": -71.10203079 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -5021,7 +5021,7 @@
     {
         "id": 719,
         "name": "Bustah",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.36920626, "y": -71.07846135 },
         "neighborhood": "East Cambridge"
     },
@@ -5070,7 +5070,7 @@
     {
         "id": 726,
         "name": "Buttercup",
-        "breed": "Beagle/Dachshund",
+        "breed": "Beagle/Dogo Argentino",
         "location": { "x": 42.37680555, "y": -71.12641757 },
         "neighborhood": "West Cambridge"
     },
@@ -5154,14 +5154,14 @@
     {
         "id": 738,
         "name": "Callie",
-        "breed": "Dachshund/Pinscher",
+        "breed": "Dogo Argentino/Pinscher",
         "location": { "x": 42.36977938, "y": -71.07059869 },
         "neighborhood": "East Cambridge"
     },
     {
         "id": 739,
         "name": "Callie",
-        "breed": "Miniature Pinscher",
+        "breed": "Pinscher",
         "location": { "x": 42.3711851, "y": -71.0718609 },
         "neighborhood": "East Cambridge"
     },
@@ -5273,7 +5273,7 @@
     {
         "id": 755,
         "name": "Candy",
-        "breed": "Toy Poodle",
+        "breed": "Toy Poodle (Toy)",
         "location": { "x": 42.37131132, "y": -71.07111675 },
         "neighborhood": "East Cambridge"
     },
@@ -5315,7 +5315,7 @@
     {
         "id": 761,
         "name": "Capone",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.36520305, "y": -71.10353666 },
         "neighborhood": "Cambridgeport"
     },
@@ -5378,14 +5378,14 @@
     {
         "id": 770,
         "name": "Carlo",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37661785, "y": -71.14793832 },
         "neighborhood": "West Cambridge"
     },
     {
         "id": 771,
         "name": "Carlo",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36967824, "y": -71.09833195 },
         "neighborhood": "The Port"
     },
@@ -5448,7 +5448,7 @@
     {
         "id": 780,
         "name": "Casey",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.37535429, "y": -71.10303198 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -5567,7 +5567,7 @@
     {
         "id": 797,
         "name": "Cati",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37112556, "y": -71.09282848 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -5623,7 +5623,7 @@
     {
         "id": 805,
         "name": "Celeste",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37668166, "y": -71.11009992 },
         "neighborhood": "Agassiz"
     },
@@ -5644,7 +5644,7 @@
     {
         "id": 808,
         "name": "Chachi",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.36728838, "y": -71.10429067 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -5658,7 +5658,7 @@
     {
         "id": 810,
         "name": "Chai",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.37731348, "y": -71.10520707 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -5679,7 +5679,7 @@
     {
         "id": 813,
         "name": "Champ",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.37096841, "y": -71.08885285 },
         "neighborhood": "Wellington-Harrington"
     },
@@ -5714,7 +5714,7 @@
     {
         "id": 818,
         "name": "Chance",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.37762812, "y": -71.15050157 },
         "neighborhood": "Strawberry Hill"
     },
@@ -5826,7 +5826,7 @@
     {
         "id": 834,
         "name": "Charlie",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.38807088, "y": -71.12741825 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -5896,7 +5896,7 @@
     {
         "id": 844,
         "name": "Charlie",
-        "breed": "Toy Poodle",
+        "breed": "Toy Poodle (Toy)",
         "location": { "x": 42.38392391, "y": -71.13217196 },
         "neighborhood": "Neighborhood Nine"
     },
@@ -6050,7 +6050,7 @@
     {
         "id": 866,
         "name": "Charlie",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38567271, "y": -71.14199396 },
         "neighborhood": "West Cambridge"
     },
@@ -6113,7 +6113,7 @@
     {
         "id": 875,
         "name": "Charlie",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36818889, "y": -71.1098791 },
         "neighborhood": "Mid-Cambridge"
     },
@@ -6176,7 +6176,7 @@
     {
         "id": 884,
         "name": "Che",
-        "breed": "Labradoodle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.37360416, "y": -71.14076699 },
         "neighborhood": "West Cambridge"
     },
@@ -6407,7 +6407,7 @@
     {
         "id": 917,
         "name": "Chip",
-        "breed": "Miniature Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.37746476, "y": -71.12867618 },
         "neighborhood": "West Cambridge"
     },
@@ -6505,7 +6505,7 @@
     {
         "id": 931,
         "name": "Chloe",
-        "breed": "Miniature Schnauzer",
+        "breed": "Schnauzer",
         "location": { "x": 42.37223036, "y": -71.08004331 },
         "neighborhood": "East Cambridge"
     },
@@ -6519,7 +6519,7 @@
     {
         "id": 933,
         "name": "Chloe",
-        "breed": "Yorksire Terrier",
+        "breed": "Yorkshire Terrier",
         "location": { "x": 42.38074032, "y": -71.14527424 },
         "neighborhood": "West Cambridge"
     },
@@ -6540,7 +6540,7 @@
     {
         "id": 936,
         "name": "Chloe",
-        "breed": "Pit Bull",
+        "breed": "Pharaoh Hound",
         "location": { "x": 42.38446141, "y": -71.11472636 },
         "neighborhood": "Agassiz"
     },
@@ -6722,7 +6722,7 @@
     {
         "id": 962,
         "name": "Cici",
-        "breed": "Long Hair Chihuahua",
+        "breed": "Dogo Argentino Chihuahua",
         "location": { "x": 42.37501109, "y": -71.13022519 },
         "neighborhood": "West Cambridge"
     },
@@ -6736,7 +6736,7 @@
     {
         "id": 964,
         "name": "Cinder",
-        "breed": "Miniature Schnauzer",
+        "breed": "Schnauzer",
         "location": { "x": 42.39265462, "y": -71.12541487 },
         "neighborhood": "North Cambridge"
     },
@@ -6771,7 +6771,7 @@
     {
         "id": 969,
         "name": "Cisco",
-        "breed": "Labradoddle",
+        "breed": "Labrador Retriever",
         "location": { "x": 42.38227019, "y": -71.14370697 },
         "neighborhood": "West Cambridge"
     },
@@ -6848,7 +6848,7 @@
     {
         "id": 980,
         "name": "Clark",
-        "breed": "Dachshund",
+        "breed": "Dogo Argentino",
         "location": { "x": 42.35404175, "y": -71.10941287 },
         "neighborhood": "Cambridgeport"
     },
@@ -6862,7 +6862,7 @@
     {
         "id": 982,
         "name": "Clark",
-        "breed": "Long Hair Chihuahua",
+        "breed": "Dogo Argentino Chihuahua",
         "location": { "x": 42.37512524, "y": -71.14638931 },
         "neighborhood": "West Cambridge"
     },
@@ -6946,21 +6946,21 @@
     {
         "id": 994,
         "name": "Cleve",
-        "breed": "Standard Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36875107, "y": -71.11101273 },
         "neighborhood": "Riverside"
     },
     {
         "id": 995,
         "name": "Clifford",
-        "breed": "Poodle",
+        "breed": "Poodle (Toy)",
         "location": { "x": 42.36808378, "y": -71.11431901 },
         "neighborhood": "Riverside"
     },
     {
         "id": 996,
         "name": "Clifford",
-        "breed": "Toy Poodle",
+        "breed": "Toy Poodle (Toy)",
         "location": { "x": 42.36678308, "y": -71.11356219 },
         "neighborhood": "Riverside"
     },

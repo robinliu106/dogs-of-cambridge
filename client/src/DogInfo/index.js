@@ -7,6 +7,7 @@ import SkeletonLoader from "../SkeletonLoader";
 const DogInfo = () => {
     const activeDog = useSelector(dogSlice.selectActiveDog);
     const [dogInfo, setDogInfo] = useState({});
+    const [dogImage, setDogImage] = useState();
     const [isLoading, setLoading] = useState(false);
     const [error, setError] = useState(false);
 
@@ -25,9 +26,16 @@ const DogInfo = () => {
 
                 const infoJSON = await infoResponse.json();
 
-                const dogID = infoJSON[0]?.id;
-                // console.log("dog Info", infoJSON[0].id);
+                const { id: dogID, name: dogBreed } = infoJSON[0] ?? null;
+                console.log("dog Info", dogID, dogBreed);
                 //TODO add some error checking here
+
+                // const imageResponseTwo = await fetch(
+                //     `https://dog.ceo/api/breed/${dogBreed.toLowerCase()}/images/random`
+                // );
+                // const imageJSONTwo = await imageResponseTwo.json();
+                // const imageURL = await imageJSONTwo.message;
+                // console.log("image Response Two", imageURL);
 
                 const imageResponse = await fetch(
                     "https://api.thedogapi.com/v1/images/search?" +
