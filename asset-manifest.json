@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/dogs-of-cambridge/static/css/main.7c3a2cd3.chunk.css",
-    "main.js": "/dogs-of-cambridge/static/js/main.e351ad07.chunk.js",
-    "main.js.map": "/dogs-of-cambridge/static/js/main.e351ad07.chunk.js.map",
+    "main.js": "/dogs-of-cambridge/static/js/main.5708c55d.chunk.js",
+    "main.js.map": "/dogs-of-cambridge/static/js/main.5708c55d.chunk.js.map",
     "runtime-main.js": "/dogs-of-cambridge/static/js/runtime-main.06a8d5cd.js",
     "runtime-main.js.map": "/dogs-of-cambridge/static/js/runtime-main.06a8d5cd.js.map",
-    "static/js/2.96ff2a86.chunk.js": "/dogs-of-cambridge/static/js/2.96ff2a86.chunk.js",
-    "static/js/2.96ff2a86.chunk.js.map": "/dogs-of-cambridge/static/js/2.96ff2a86.chunk.js.map",
+    "static/js/2.e763098b.chunk.js": "/dogs-of-cambridge/static/js/2.e763098b.chunk.js",
+    "static/js/2.e763098b.chunk.js.map": "/dogs-of-cambridge/static/js/2.e763098b.chunk.js.map",
     "index.html": "/dogs-of-cambridge/index.html",
     "static/css/main.7c3a2cd3.chunk.css.map": "/dogs-of-cambridge/static/css/main.7c3a2cd3.chunk.css.map",
-    "static/js/2.96ff2a86.chunk.js.LICENSE.txt": "/dogs-of-cambridge/static/js/2.96ff2a86.chunk.js.LICENSE.txt"
+    "static/js/2.e763098b.chunk.js.LICENSE.txt": "/dogs-of-cambridge/static/js/2.e763098b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.06a8d5cd.js",
-    "static/js/2.96ff2a86.chunk.js",
+    "static/js/2.e763098b.chunk.js",
     "static/css/main.7c3a2cd3.chunk.css",
-    "static/js/main.e351ad07.chunk.js"
+    "static/js/main.5708c55d.chunk.js"
   ]
 }
