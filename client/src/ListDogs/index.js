@@ -1,12 +1,11 @@
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import DogItem from "../DogItem";
-
+console.log("in list dogs");
 const ListDogs = () => {
     const useQuery = () => {
         return new URLSearchParams(useLocation().search);
     };
-
     let query = useQuery();
 
     let page = query.get("page") ? Number(query.get("page")) : 1;
@@ -41,14 +40,13 @@ const ListDogs = () => {
 
         for (let num = page; num <= page + pageDifference && num <= 100; num++) {
             pageNumbers.push(
-                <li className={num == page ? "page-item active" : "page-item"} key={num}>
+                <li className={num === page ? "page-item active" : "page-item"} key={num}>
                     <a className="page-link" href={`?page=${num}`}>
                         <span>{num}</span>
                     </a>
                 </li>
             );
         }
-
         //Add left and right arrow buttons
         if (page > 4) {
             pageNumbers.unshift(
