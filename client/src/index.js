@@ -15,7 +15,7 @@ ReactDOM.render(
         <PersistGate loading={null} persistor={persistor}>
             <BrowserRouter>
                 <Switch>
-                    <Route path="/dogs" component={App} />
+                    <Route path="/" component={App} />
                 </Switch>
             </BrowserRouter>
         </PersistGate>
