@@ -56,6 +56,8 @@ const ListDogs = () => {
         const pageDifference = 4;
         let pageNumbers = [];
 
+        const goBackNumPages = page > 4 ? page - pageDifference : 1;
+
         for (let num = page; num <= page + pageDifference && num <= 100; num++) {
             pageNumbers.push(
                 <li className={num === page ? "page-item active" : "page-item"} key={num}>
@@ -66,12 +68,12 @@ const ListDogs = () => {
             );
         }
         //Add left and right arrow buttons
-        if (page > 4) {
+        if (page > 1) {
             pageNumbers.unshift(
                 <li className="page-item" key={"left-arrow"}>
                     <a
                         className="page-link"
-                        href={`?page=${page - pageDifference}`}
+                        href={`?page=${goBackNumPages}`}
                         onClick={() => dispatch(dogSlice.setActiveDog(null))}
                     >
                         <span aria-hidden="true">&laquo;</span>
