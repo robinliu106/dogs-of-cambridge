@@ -8,7 +8,6 @@ const DogItem = ({ name, breed, location, neighborhood }) => {
 
     const setActiveDog = () => {
         const dogObject = { name, breed, location, neighborhood };
-        console.log("dogObject", dogObject);
         dispatch(dogSlice.setActiveDog(dogObject));
     };
     return (

@@ -9,7 +9,8 @@ const DogInfo = () => {
     const [dogInfo, setDogInfo] = useState({});
     const [isLoading, setLoading] = useState(false);
     const [error, setError] = useState(false);
-    console.log("in dog info");
+
+    console.log("activeDog", activeDog);
     useEffect(() => {
         setLoading(true);
         const fetchDogInfo = async () => {
@@ -26,7 +27,6 @@ const DogInfo = () => {
 
                 const dogID = infoJSON[0].id;
                 // console.log("dog Info", infoJSON[0].id);
-
                 //TODO add some error checking here
 
                 const imageResponse = await fetch(
@@ -60,43 +60,59 @@ const DogInfo = () => {
     }, [activeDog]);
 
     const InfoCard = () => {
-        console.log("info card", dogInfo);
+        // console.log("dogInfo", dogInfo);
         const imageSource = dogInfo.url ?? "client/public/dogs-illustration.png";
+        const dogName = activeDog?.name ?? "unknown";
+        const bredFor = dogInfo?.breeds?.[0]?.bred_for ?? "unknown";
+        const lifeSpan = dogInfo?.breeds?.[0]?.life_span ?? "unknown";
+        const temperament = dogInfo?.breeds?.[0]?.temperament ?? "unknown";
+
         if (dogInfo) {
             return (
                 <div className="card">
-                    <img src={imageSource} class="card-img-top" alt="Doggo" />
+                    <img src={imageSource} className="card-img-top" alt="Doggo" />
 
                     <div className="card-body">
-                        <h5 className="card-title">{activeDog.name}</h5>
-                        <h6 className="card-subtitle mb-2 text-muted">{`Bred for: ${
-                            dogInfo?.breeds?.[0]?.bred_for ?? "unknown"
-                        }`}</h6>
-                        <h6 className="card-subtitle mb-2 text-muted">{`Life span: ${
-                            dogInfo?.breeds?.[0]?.life_span ?? "unknown"
-                        }`}</h6>
-
-                        <p className="card-text">{`${dogInfo?.breeds?.[0]?.temperament ?? "unknown"}`}</p>
+                        <h5 className="card-title">{dogName}</h5>
+                        <h6 className="card-subtitle mb-2 text-muted">{`Bred For: ${bredFor}`}</h6>
+                        <h6 className="card-subtitle mb-2 text-muted">{`Life Span: ${lifeSpan}`}</h6>
+                        <p className="card-text">{`Temperament: ${temperament}`}</p>
                     </div>
                 </div>
             );
         }
     };
 
-    const ErrorCard = () => {
+    const ErrorCard = ({ details }) => {
         return (
             <div className="card">
                 <div className="card-body">
-                    <h5 className="card-title">Could not find Info</h5>
-                    <p className="card-text">Try another dog!</p>
+                    <h5 className="card-title">{details.title}</h5>
+                    <p className="card-text">{details.text}</p>
                 </div>
             </div>
         );
     };
+    console.log("dogInfo ", !!dogInfo, "activeDog ", !!activeDog, "error ", !!error);
+    const DisplayInfo = () => {
+        if (dogInfo && !error) {
+            return isLoading ? <SkeletonLoader /> : <InfoCard />;
+        } else if (!activeDog && error) {
+            return <ErrorCard details={{ title: "Select a Dog!", text: "" }} />;
+        } else {
+            return <ErrorCard details={{ title: "Could not find info", text: "Try another dog!" }} />;
+        }
+    };
 
-    const DisplayInfo = () => (isLoading ? <SkeletonLoader /> : <InfoCard />);
-
-    return <div>{dogInfo && !error ? <DisplayInfo /> : <ErrorCard />}</div>;
+    return (
+        <div>
+            <DisplayInfo />
+        </div>
+    );
 };
 
 export default DogInfo;
+
+// const DisplayInfo = () => (isLoading ? <SkeletonLoader /> : <InfoCard />);
+
+// return <div>{dogInfo && !error ? <DisplayInfo /> : <ErrorCard />}</div>;

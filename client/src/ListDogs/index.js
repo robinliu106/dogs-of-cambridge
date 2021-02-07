@@ -1,8 +1,13 @@
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import DogItem from "../DogItem";
-console.log("in list dogs");
+import { useDispatch } from "react-redux";
+
+import * as dogSlice from "../redux/dogSlice";
+
 const ListDogs = () => {
+    const dispatch = useDispatch();
+
     const useQuery = () => {
         return new URLSearchParams(useLocation().search);
     };
@@ -51,7 +56,11 @@ const ListDogs = () => {
         if (page > 4) {
             pageNumbers.unshift(
                 <li className="page-item" key={"left-arrow"}>
-                    <a className="page-link" href={`?page=${page - pageDifference}`}>
+                    <a
+                        className="page-link"
+                        href={`?page=${page - pageDifference}`}
+                        onClick={() => dispatch(dogSlice.setActiveDog(null))}
+                    >
                         <span aria-hidden="true">&laquo;</span>
                     </a>
                 </li>
@@ -61,7 +70,11 @@ const ListDogs = () => {
         if (page < 95) {
             pageNumbers.push(
                 <li className="page-item" key={"right-arrow"}>
-                    <a className="page-link" href={`?page=${page + pageDifference}`}>
+                    <a
+                        className="page-link"
+                        href={`?page=${page + pageDifference}`}
+                        onClick={() => dispatch(dogSlice.setActiveDog(null))}
+                    >
                         <span aria-hidden="true">&raquo;</span>
                     </a>
                 </li>
@@ -78,7 +91,7 @@ const ListDogs = () => {
     return (
         <div>
             {dogs && <RenderDogs />}
-            {<PaginationNav />}
+            <PaginationNav />
         </div>
     );
 };
