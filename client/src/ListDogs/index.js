@@ -4,6 +4,7 @@ import DogItem from "../DogItem";
 import { useDispatch } from "react-redux";
 
 import * as dogSlice from "../redux/dogSlice";
+import dogDump from "../data/dogDump.json";
 
 const ListDogs = () => {
     const dispatch = useDispatch();
@@ -18,16 +19,28 @@ const ListDogs = () => {
 
     useEffect(() => {
         const fetchDogs = async () => {
-            try {
-                const response = await fetch(`http://localhost:5000/dogs?page=${page}`);
-
-                const jsonData = await response.json();
-                console.log("data", jsonData);
-                setDogs(jsonData);
-            } catch (error) {
-                console.log(error.message);
+            let start = 1;
+            let end = 10;
+            if (page) {
+                end = page * 10;
+                start = end - 9;
             }
+            const filteredDogs = dogDump.filter((item) => item.id >= start && item.id <= end);
+            setDogs(filteredDogs);
         };
+
+        // const fetchDogs = async () => {
+        //     try {
+        //         const response = await fetch(`http://localhost:5000/dogs?page=${page}`);
+
+        //         const jsonData = await response.json();
+        //         console.log("fetchDogs data", jsonData);
+        //         setDogs(jsonData);
+        //     } catch (error) {
+        //         console.log(error.message);
+        //     }
+        // };
+        // fetchDogs();
         fetchDogs();
     }, [page]);
 

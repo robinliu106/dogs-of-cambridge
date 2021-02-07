@@ -10,7 +10,7 @@ const DogInfo = () => {
     const [isLoading, setLoading] = useState(false);
     const [error, setError] = useState(false);
 
-    console.log("activeDog", activeDog);
+    // console.log("activeDog", activeDog);
     useEffect(() => {
         setLoading(true);
         const fetchDogInfo = async () => {
@@ -93,7 +93,7 @@ const DogInfo = () => {
             </div>
         );
     };
-    console.log("dogInfo ", !!dogInfo, "activeDog ", !!activeDog, "error ", !!error);
+    // console.log("dogInfo ", !!dogInfo, "activeDog ", !!activeDog, "error ", !!error);
     const DisplayInfo = () => {
         if (dogInfo && !error) {
             return isLoading ? <SkeletonLoader /> : <InfoCard />;
